@@ -8,6 +8,7 @@ $metro['eu'] =
         "bshp" => "Body",
         "fshp" => "Feet",
         "birth" => "Birth",
+        "country" => "Country",
         "height" => "Height",
         "weight" => "Weight",
         "size" => "Size",
