@@ -16,14 +16,14 @@ $metro['eu'] =
     ],
     "unit" =>
     [
-        "ratio" => "",
+        "ratio" => ".",
         "height" => "m",
         "weight" => "kg",
         "size" => "EU",
     ],
     "side" =>
     [
-        "ratio" => "right",
+        "ratio" => "left",
         "height" => "right",
         "weight" => "right",
         "size" => "right",
