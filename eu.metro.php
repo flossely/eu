@@ -10,6 +10,7 @@ $metro['eu'] =
         "birth" => "Birth",
         "zodiac" => "Zodiac",
         "country" => "Country",
+        "quote" => "Quote",
         "ratio" => "Ratio",
         "height" => "Height",
         "weight" => "Weight",
