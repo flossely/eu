@@ -98,6 +98,7 @@ $parle['eu'] =
     "nav:<" => "<",
     "nav:=" => "=",
     "nav:>" => ">",
+    "nav:info" => "ι",
     "nav:alter" => "Δ",
     "nav:info" => "ι",
     "nav:name" => "μ",
